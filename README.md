@@ -1,3 +1,5 @@
 # Wiki
 
-This repository is for FRC 6201's wiki. Please switch to the Wiki tab to view it.
+
+This repository is for FRC 6201's wiki. Please [click here to view it](https://github.com/SHSSRobotics/Wiki/wiki).
+
